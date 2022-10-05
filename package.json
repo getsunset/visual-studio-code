@@ -1,8 +1,13 @@
 {
-  "name": "sunset-theme",
+  "name": "theme-sunset",
   "displayName": "Sunset Theme",
   "description": "A warm theme for everything you need.",
   "version": "0.0.1",
+	"publisher": "brunordgs",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/getsunset/visual-studio-code"
+	},
   "engines": {
     "vscode": "^1.71.0"
   },
