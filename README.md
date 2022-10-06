@@ -30,7 +30,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/visual-studio-code/graphs/contributors).
+It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getsunset/visual-studio-code/graphs/contributors).
 
 <table>
   <tr>
