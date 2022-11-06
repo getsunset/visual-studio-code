@@ -2,7 +2,7 @@
   "name": "theme-sunset",
   "displayName": "Sunset Theme",
   "description": "A warm theme for everything you need.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "brunordgs",
 	"scripts": {
 		"package": "vsce package",
