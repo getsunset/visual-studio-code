@@ -2,8 +2,12 @@
   "name": "theme-sunset",
   "displayName": "Sunset Theme",
   "description": "A warm theme for everything you need.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "brunordgs",
+	"scripts": {
+		"package": "vsce package",
+		"vsce-publish": "vsce publish"
+	},
   "repository": {
     "type": "git",
     "url": "https://github.com/getsunset/visual-studio-code"
